@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="clinicModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ADMIN_">
+    <Key>
+      <PropertyRef Name="USERNAME" />
+    </Key>
+    <Property Name="USERNAME" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PASSWORD_" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="USEER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME_" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="DATE_" Type="DateTime" Precision="0" />
+    <Property Name="ADDRESS_" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="AGE" Type="Int32" />
+    <Property Name="DEPNAEM" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="USERP">
+    <Key>
+      <PropertyRef Name="USERNAME" />
+    </Key>
+    <Property Name="USERNAME" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PASSWORD_" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="clinicEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ADMIN_" EntityType="Self.ADMIN_" />
+    <EntitySet Name="USEERs" EntityType="Self.USEER" />
+    <EntitySet Name="USERPs" EntityType="Self.USERP" />
+  </EntityContainer>
+</Schema>

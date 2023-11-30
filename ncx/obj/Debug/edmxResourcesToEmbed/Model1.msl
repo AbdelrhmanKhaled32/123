@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="clinicModelStoreContainer" CdmEntityContainer="clinicEntities">
+    <EntitySetMapping Name="ADMIN_">
+      <EntityTypeMapping TypeName="clinicModel.ADMIN_">
+        <MappingFragment StoreEntitySet="ADMIN_">
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASSWORD_" ColumnName="PASSWORD_" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USEERs">
+      <EntityTypeMapping TypeName="clinicModel.USEER">
+        <MappingFragment StoreEntitySet="USEER">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME_" ColumnName="NAME_" />
+          <ScalarProperty Name="DATE_" ColumnName="DATE_" />
+          <ScalarProperty Name="ADDRESS_" ColumnName="ADDRESS_" />
+          <ScalarProperty Name="AGE" ColumnName="AGE" />
+          <ScalarProperty Name="DEPNAEM" ColumnName="DEPNAEM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USERPs">
+      <EntityTypeMapping TypeName="clinicModel.USERP">
+        <MappingFragment StoreEntitySet="USERP">
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASSWORD_" ColumnName="PASSWORD_" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

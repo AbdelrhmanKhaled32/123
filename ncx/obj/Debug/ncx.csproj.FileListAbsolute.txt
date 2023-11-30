@@ -1,0 +1,32 @@
+C:\Users\IT\source\repos\ncx\ncx\bin\Debug\ncx.exe.config
+C:\Users\IT\source\repos\ncx\ncx\bin\Debug\ncx.exe
+C:\Users\IT\source\repos\ncx\ncx\bin\Debug\ncx.pdb
+C:\Users\IT\source\repos\ncx\ncx\bin\Debug\EntityFramework.dll
+C:\Users\IT\source\repos\ncx\ncx\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\source\repos\ncx\ncx\bin\Debug\EntityFramework.xml
+C:\Users\IT\source\repos\ncx\ncx\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\admin.g.cs
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\log in.g.cs
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\MainWindow.g.cs
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\user.g.cs
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\App.g.cs
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx_Content.g.cs
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx_MarkupCompile.cache
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx_MarkupCompile.lref
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\admin.baml
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\log in.baml
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\MainWindow.baml
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\user.baml
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx.g.resources
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx.Properties.Resources.resources
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx.csproj.CopyComplete
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx.exe
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\ncx.pdb
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\sign up.g.cs
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\sign up.baml
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\forget.g.cs
+C:\Users\IT\source\repos\ncx\ncx\obj\Debug\forget.baml
